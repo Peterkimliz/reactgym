@@ -57,7 +57,7 @@ function Hero() {
           <button className="btn">Learn more</button>
         </div>
       </div>
-      {/* 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 */}
+
       {/* hero right */}
       <div className="hero-right">
 
